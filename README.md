@@ -287,6 +287,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [PhishStats](https://phishstats.info/) - Phishing Statistics with search for IP, domain and website title.
 - [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 - [Cyberowl](https://github.com/karimhabush/cyberowl) - A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+- [urlDNA.io](https://urldna.io) - urlDNA.io is a tool designed to enhance online security by extracting information from URLs and querying the comprehensive URL database. urlDNA.io mission is to protect brands against phishing and other malicious activities by providing detailed insights. By offering a centralized platform and API urlDNA.io empowers and security professionals to effectively identify online threats.
 
 ## Social Engineering
 
